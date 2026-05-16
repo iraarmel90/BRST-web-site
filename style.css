@@ -91,7 +91,7 @@ header > * {
     position: sticky;
     top: 0;
     z-index: 100;
-    /* color: black */
+    color: black
 }
 
 .nav-menu {
@@ -105,7 +105,7 @@ header > * {
 .nav-link {
     display: block;
     padding: 15px 25px;
-    color:#1a252f;;
+    color: #ecf0f1;
     text-decoration: none;
     transition: all 0.3s ease;
     font-weight: 500;
